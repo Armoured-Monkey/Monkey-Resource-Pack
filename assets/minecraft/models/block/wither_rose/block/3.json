@@ -1,0 +1,6 @@
+{
+	"parent": "block/cross",
+	"textures": {
+		"cross": "block/variated/wither_rose/3"
+	}
+}

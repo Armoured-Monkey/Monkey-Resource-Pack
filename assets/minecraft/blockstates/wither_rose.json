@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/wither_rose/block/0"
+      },
+      {
+        "model": "block/wither_rose/block/1"
+      },
+      {
+        "model": "block/wither_rose/block/2"
+      },
+      {
+        "model": "block/wither_rose/block/3"
+      },
+      {
+        "model": "block/wither_rose/block/4"
+      }
+    ]
+  }
+}
